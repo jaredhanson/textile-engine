@@ -1,6 +1,6 @@
 # textile-engine
 
-[Textile](http://en.wikipedia.org/wiki/Textile_%28markup_language%28) rendering,
+[Textile](http://en.wikipedia.org/wiki/Textile_%28markup_language%29) rendering,
 powered by [textile-js](https://github.com/borgar/textile-js).
 
 ## Installation
